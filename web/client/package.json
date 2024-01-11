@@ -24,7 +24,7 @@
     "vue-phone-number-input": "1.12.13",
     "vue-property-decorator": "9.1.2",
     "vue-router": "legacy",
-    "vuex": "3.6.2"
+    "vuex": "4.1.0"
   },
   "devDependencies": {
     "@types/jest": "26.0.22",
